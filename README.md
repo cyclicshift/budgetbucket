@@ -1,2 +1,2 @@
-# budgetbucket
-An digital envelope budgeting system
+# financelight
+Shine a light on your finances.
